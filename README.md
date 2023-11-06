@@ -1,0 +1,1 @@
+The DORI (Database Of Regular Information) application is an offline web application for storing all the data that matters to us and that we use in our daily lives, such as login information, phone numbers, email addresses, and other important data, all in one place.
